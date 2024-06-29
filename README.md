@@ -1,0 +1,2 @@
+# RoyiMOOC
+基于royi二开写的课程推荐系统，使用django来运行算法和爬虫模块，使用协同过滤算法。royi为spingboot框架，外部套用了django来传递协同过滤算法参数。
